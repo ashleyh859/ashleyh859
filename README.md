@@ -1,4 +1,4 @@
-### 👋 About Me 
+# 👋 About Me 
 
 Hi! I'm Ashley! I am a *rising sophomore at Cornell University* studying **Information Science with a Concentration in Data Science**. Ever since my first data analytics internship this summer, I have been deeply fascinated by *data analytics*, so I am on a *self-learning journey* to develop more of these skills. 😄
 
