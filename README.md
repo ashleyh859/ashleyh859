@@ -19,10 +19,10 @@ Hi! I'm Ashley! I am a *rising sophomore at Cornell University* studying **Infor
 - Database: Microsoft SQL
 - Visualization: Tableau, Excel
 
-## Hobbies & Interests
-- **Music**: I'm a multi-instrumentalist and love playing the guzheng and violin since young!
-- **Photography & Editing**: I like to take photos and bring out people's beauty through photo and video editing!
-- **Dance**: I'm new to dancing, but I find joy in exploring different dance styles and expressing myself through movement.
+## 🎶 Hobbies & Interests
+- **🎵 Music**: I'm a multi-instrumentalist and love playing the guzheng and violin since young!
+- **📸 Photography & Editing**: I like to take photos and bring out people's beauty through photo and video editing!
+- **💃 Dance**: I'm new to dancing, but I find joy in exploring different dance styles and expressing myself through movement.
 
 ## 📧 Let's Connect
 
