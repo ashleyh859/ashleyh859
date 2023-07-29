@@ -10,6 +10,7 @@ Hi! I'm Ashley! I am a rising sophomore at Cornell University studying Informati
 ## 🚀 Project
 
 | Project Name  | Quick Summary| 
+|----|----|
 | [Uncovering Engagement Patterns at a Nonprofit 💡] (README.md) | My objective was to create a project aimed at identifying potential patterns of student engagement levels within the Program, with the intention of providing valuable insights to enhance program services. The main focus was to explore correlations between student engagement and various factors, including colleges, grade levels, and more.|
 
 ## 🛠️ Tools
