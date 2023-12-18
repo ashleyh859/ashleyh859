@@ -12,9 +12,13 @@ Hi! I'm Ashley! I am a *sophomore at Cornell University* studying **Information 
 | Project Name  | Quick Summary| Skills Learned & Used|
 |----|----|---|
 | **[Uncovering Engagement Patterns at a Nonprofit 💡](https://github.com/ashleyh859/internship_project/blob/main/README.md)** | Data Analytics project on ***identifying potential patterns of student engagement levels*** within the Program, with the intention of providing valuable insights to *enhance program services*. The main focus was to explore **correlations** between **student engagement and various factors**, including colleges, grade levels, and more.| Data Cleaning and Querying with **Microsoft SQL**, Data Analysis with **Excel**, Data visualization dashboards with **Excel** and **Tableau**|
-| **[Amazon User Experience💡](https://github.com/ashleyh859/amazonuserexperience/blob/main/README.md)** | Data Science project on ***correlation between Amazon user experience and consumer willingness of purchasing products in different age groups***, with the intention of providing valuable insights to *enhance program services*. The main focus was to explore **correlations** between **student engagement and various factors**, including colleges, grade levels, and more.| Train/test set, Feature Selection, Multicollinearity, OLS Multi-Linear Regression Model training, K-Fold Cross Validation, RMSE, Hypothesis Testing
+| **[Amazon User Experience💡](https://github.com/ashleyh859/amazonuserexperience/blob/main/README.md)** | Data Science project on ***correlation between Amazon user experience and consumer willingness of purchasing products in different age groups***, with the intention of providing valuable insights to *enhance program services*. The main focus was to explore **correlations** between **student engagement and various factors**, including colleges, grade levels, and more.| Train/test set, Feature Selection, Multicollinearity, OLS Multi-Linear Regression Model training, K-Fold Cross Validation, RMSE, Hypothesis Testing with **Pandas, SQL, matplotlib, seaborn, sci-kit learn, sklearn.model_selection**
 
-Packages Used: Pandas, SQL, matplotlib, seaborn, sci-kit learn, sklearn.model_selection|
+## 🚀 Front End Development Project
+
+| Project Name  | Quick Summary| Skills Learned & Used|
+|----|----|---|
+| **[Chinese Eastern Music Ensemble💡](https://github.com/ashleyh859/internship_project/blob/main/README.md)** | Redesigned a responsive and accessible website with user-centered design principles website for our client, **Cornell Eastern Music Ensemble**.|**HTML, CSS, and JavaScript**|
 
 ## 🎶 Hobbies & Interests
 - **🎵 Music**: I'm a multi-instrumentalist and love playing the guzheng and violin since young!
