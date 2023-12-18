@@ -2,11 +2,6 @@
 
 Hi! I'm Ashley! I am a *sophomore at Cornell University* studying **Information Science with a Concentration in Data Science and Interactive Technologies**. Ever since my first data analytics internship this summer and my classes, I have been deeply fascinated by *data analytics/science and web programming/designing*, so I hope to explore and develop more of these skills in those fields. 😄
 
-## 🔍 Skills:
-- *Cleaning* and *querying* data using **Microsoft SQL** for generating insightful reports for data analysis 📊
-- Developing interactive and visually appealing *dashboards* using **Tableau** and **Excel** 📈
-- *Reporting* in data analysis using **Google Sheets** and **Excel** 📑
-
 ## 🚀 Data Science/Analytics Project
 
 | Project Name  | Quick Summary| Skills Learned & Used|
@@ -18,7 +13,7 @@ Hi! I'm Ashley! I am a *sophomore at Cornell University* studying **Information 
 
 | Project Name  | Quick Summary| Skills Learned & Used|
 |----|----|---|
-| **[Cornell Eastern Music Ensemble 🎼](https://github.com/ashleyh859/internship_project/blob/main/README.md)** | Redesigned a responsive and accessible website with user-centered design principles website for our client, **Cornell Eastern Music Ensemble**.|**HTML, CSS, and JavaScript**|
+| **[Cornell Eastern Music Ensemble 🎼](https://github.com/ashleyh859/cemewebsite/blob/main/README.md)** | Redesigned a responsive and accessible website with user-centered design principles website for our client, **Cornell Eastern Music Ensemble**.|**HTML, CSS, and JavaScript**|
 
 ## 🎶 Hobbies & Interests
 - **🎵 Music**: I'm a multi-instrumentalist and love playing the guzheng and violin since young!
