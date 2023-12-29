@@ -2,6 +2,12 @@
 
 Hi! I'm Ashley! I am a *sophomore at Cornell University* studying **Information Science with a Concentration in Data Science and Interactive Technologies**. Ever since my first data analytics internship this summer and my classes, I have been deeply fascinated by *data analytics/science and web programming/designing*, so I hope to explore and develop more of these skills in those fields. 😄
 
+
+##  🛠️ Tools
+- **Programming Languages**: Python, HTML, CSS, JavaScript, SQL
+- **Tools**: Microsoft SQL, Excel, Tableau
+- **Data Science & Machine Learning Libraries**: scikit-learn, numpy, pandas, matplotlib, seaborn, duckdb, statsmodel, SciPy
+
 ## 🚀 Data Science/Analytics Project
 
 | Project Name  | Quick Summary| Skills Learned & Used|
