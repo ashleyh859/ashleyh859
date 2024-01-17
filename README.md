@@ -1,11 +1,11 @@
 # 👋 About Me 
 
-Hi! I'm Ashley! I am a *sophomore at Cornell University* studying **Information Science with a Concentration in Data Science and Interactive Technologies**. Ever since my first data analytics internship this summer and my classes, I have been deeply fascinated by *data analytics/science and web programming/designing*, so I hope to explore and develop more of these skills in those fields. 😄
+Hi! I'm Ashley! I am a *sophomore at Cornell University* studying **Information Science with a Concentration in Data Science and Interactive Technologies**. Ever since my first data analytics internship this summer and my classes, I have been deeply fascinated by *data science, frontend development, and product design*, so I hope to explore and develop more of these skills in those fields. 😄
 
 
 ##  🛠️ Tools
 - **Programming Languages**: Python, HTML, CSS, JavaScript, SQL
-- **Tools**: Microsoft SQL, Excel, Tableau
+- **Tools**: Microsoft SQL, Excel, Tableau, Figma
 - **Data Science & Machine Learning Libraries**: scikit-learn, numpy, pandas, matplotlib, seaborn, duckdb, statsmodel, SciPy
 
 ## 🚀 Data Science/Analytics Project
@@ -16,10 +16,11 @@ Hi! I'm Ashley! I am a *sophomore at Cornell University* studying **Information 
 | **[Amazon User Experience 🚀](https://github.com/ashleyh859/amazonuserexperience/blob/main/README.md)** | Data Science project on ***correlation between Amazon user experience and consumer willingness of purchasing products in different age groups***.| Train/test set, Feature Selection, Multicollinearity, OLS Multi-Linear Regression Model training, K-Fold Cross Validation, RMSE, Hypothesis Testing with **Pandas, SQL, matplotlib, seaborn, sci-kit learn, sklearn.model_selection**
 | **[Uncovering Engagement Patterns at a Nonprofit 💡](https://github.com/ashleyh859/internship_project/blob/main/README.md)** | Data Analytics project on ***identifying potential patterns of student engagement levels*** within the Program, with the intention of providing valuable insights to *enhance program services*. The main focus was to explore **correlations** between **student engagement and various factors**, including colleges, grade levels, and more.| Data Cleaning and Querying with **Microsoft SQL**, Data Analysis with **Excel**, Data visualization dashboards with **Excel** and **Tableau**|
 
-## 💻  Front End Development Project
+## 💻  Frontend Development/Product Design UI/UX Projects
 
 | Project Name  | Quick Summary| Skills Learned & Used|
 |----|----|---|
+| **[Portfolio Website Case Study 🚀](https://github.com/ashleyh859/portfoliowebsitecasestudy/blob/main/README.md)** | Interaction redesign case study on my client's professional website |**Figma, User Testing, User Research, Visual Design, Low Fidelity + High Fidelity Interactive Prototyping**|
 | **[Ithaca Apple Fest 🍎](https://github.com/ashleyh859/applefest/blob/main/README.md)** | Redesigned a responsive and accessible website with user-centered design principles website for the client, **Ithaca Apple Fest**.|**HTML, CSS, and JavaScript**|
 | **[Cornell Eastern Music Ensemble 🎼](https://github.com/ashleyh859/cemewebsite/blob/main/README.md)** | Redesigned a responsive and accessible website with user-centered design principles website for our client, **Cornell Eastern Music Ensemble**.|**HTML, CSS, and JavaScript**|
 
