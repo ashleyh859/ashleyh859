@@ -21,7 +21,7 @@ Hi! I'm Ashley! I am a *sophomore at Cornell University* studying **Information 
 | Project Name  | Quick Summary| Skills Learned & Used|
 |----|----|---|
 | **[Portfolio Website Case Study 🚀](https://github.com/ashleyh859/portfoliowebsitecasestudy/blob/main/README.md)** | Interaction redesign case study on my client's professional website |**Figma, User Testing, User Research, Visual Design, Low Fidelity + High Fidelity Interactive Prototyping**|
-| **[Fashion E-commerce App Yesstyle](https://github.com/ashleyh859/fashioneccomerceapp/blob/main/README.md)** | Interaction redesign case study on my client's professional website |**Figma, User Testing, User Research, Visual Design, Low Fidelity + High Fidelity Interactive Prototyping**|
+| **[Fashion E-commerce App 🧥](https://github.com/ashleyh859/fashioneccomerceapp/blob/main/README.md)** | Interaction redesign case study on my client's professional website |**Figma, User Testing, User Research, Visual Design, Low Fidelity + High Fidelity Interactive Prototyping**|
 | **[Ithaca Apple Fest 🍎](https://github.com/ashleyh859/applefest/blob/main/README.md)** | Redesigned a responsive and accessible website with user-centered design principles website for the client, **Ithaca Apple Fest**.|**HTML, CSS, and JavaScript**|
 | **[Cornell Eastern Music Ensemble 🎼](https://github.com/ashleyh859/cemewebsite/blob/main/README.md)** | Redesigned a responsive and accessible website with user-centered design principles website for our client, **Cornell Eastern Music Ensemble**.|**HTML, CSS, and JavaScript**|
 
