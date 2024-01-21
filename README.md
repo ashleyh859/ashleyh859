@@ -21,9 +21,10 @@ Hi! I'm Ashley! I am a *sophomore at Cornell University* studying **Information 
 | Project Name  | Quick Summary| Skills Learned & Used|
 |----|----|---|
 | **[Portfolio Website Case Study 🚀](https://github.com/ashleyh859/portfoliowebsitecasestudy/blob/main/README.md)** | Interaction redesign case study on my client's professional website |**Figma, User Testing, User Research, Visual Design, Low Fidelity + High Fidelity Interactive Prototyping**|
-| **[Fashion E-commerce App 🧥](https://github.com/ashleyh859/fashioneccomerceapp/blob/main/README.md)** | Interaction redesign case study on my client's professional website |**Figma, User Testing, User Research, Visual Design, Low Fidelity + High Fidelity Interactive Prototyping**|
+| **[Fashion E-commerce App 🧥](https://github.com/ashleyh859/fashioneccomerceapp/blob/main/README.md)** | Crafted a high-fidelity prototype, merging user-centric principles and industry aesthetics through competitor analysis. |**Figma, User Testing, User Research, Visual Design, Low Fidelity + High Fidelity Interactive Prototyping**|
+| **[Cornell Eastern Music Ensemble Website Redesign 🎶 ](https://github.com/ashleyh859/cemeredesign/blob/main/README.md)** |Redesigned a visually appealing contemporary website prototype for **Cornell Eastern Music Ensemble**.|**Figma**|
+| **[Cornell Eastern Music Ensemble 🎼](https://github.com/ashleyh859/cemewebsite/blob/main/README.md)** | Designed a responsive and accessible website with user-centered design principles website for our client, **Cornell Eastern Music Ensemble**.|**HTML, CSS, and JavaScript**|
 | **[Ithaca Apple Fest 🍎](https://github.com/ashleyh859/applefest/blob/main/README.md)** | Redesigned a responsive and accessible website with user-centered design principles website for the client, **Ithaca Apple Fest**.|**HTML, CSS, and JavaScript**|
-| **[Cornell Eastern Music Ensemble 🎼](https://github.com/ashleyh859/cemewebsite/blob/main/README.md)** | Redesigned a responsive and accessible website with user-centered design principles website for our client, **Cornell Eastern Music Ensemble**.|**HTML, CSS, and JavaScript**|
 
 ## 🎶 Hobbies & Interests
 - **🎵 Music**: I'm a multi-instrumentalist and love playing the guzheng and violin since young!
