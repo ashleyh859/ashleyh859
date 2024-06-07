@@ -1,10 +1,10 @@
 # 👋 About Me 
 
-Hi! I'm Ashley! I am a *sophomore at Cornell University* studying **Information Science with a Concentration in Data Science and Interactive Technologies**. Ever since my first data analytics internship this summer and my classes, I have been deeply fascinated by *data science, frontend development, and product design*, so I hope to explore and develop more of these skills in those fields. 😄
+Hi! I'm Ashley! I am a *rising junior at Cornell University* studying **Information Science with a Concentration in Data Science and Interactive Technologies**. Ever since my data analytics internship last summer and my classes, I have been deeply fascinated by *data science, frontend development, and product design*, so I hope to explore and develop more of these skills in those fields. 😄
 
 
 ##  🛠️ Tools
-- **Programming Languages**: Python, HTML, CSS, JavaScript, SQL
+- **Programming Languages**: Python, HTML, CSS, JavaScript, SQL, Java, R
 - **Tools**: Microsoft SQL, Excel, Tableau, Figma
 - **Data Science & Machine Learning Libraries**: scikit-learn, numpy, pandas, matplotlib, seaborn, duckdb, statsmodel, SciPy
 
@@ -12,6 +12,7 @@ Hi! I'm Ashley! I am a *sophomore at Cornell University* studying **Information 
 
 | Project Name  | Quick Summary| Skills Learned & Used|
 |----|----|---|
+| **[Income Disparities Among Individuals with Work Disabilities](https://github.com/ashleyh859/incomedisparitiesproject/blob/main/README.md)** | Data Science project on ***employment rates and income disparities among individuals with work disabilties***.| Data Analysis and Visualizations with **R**
 | **[Sephora Product Price Prediction Model 💄](https://github.com/ashleyh859/sephoraproductpricepredictionmodel/blob/main/README.md)** | Data Science project on ***predictive modeling function between key product variables (Ratings, Brand Name, and Category) and price of the product***.| Feature Engineering/Selection with Dummy Variables, Hypothesis Testing with Permutations, Train/test set, Residuals, Multicollinearity, Hyperparameter Tuning with GridSearchCV, Multi-Linear Regression Model, K-Fold Cross Validation, RMSE, and Predictive Modeling Function with **Pandas, matplotlib, seaborn, sci-kit learn, SciPy, Statsmodels**
 | **[Amazon User Experience 🚀](https://github.com/ashleyh859/amazonuserexperience/blob/main/README.md)** | Data Science project on ***correlation between Amazon user experience and consumer willingness of purchasing products in different age groups***.| Train/test set, Feature Selection, Multicollinearity, OLS Multi-Linear Regression Model training, K-Fold Cross Validation, RMSE, Hypothesis Testing with **Pandas, SQL, matplotlib, seaborn, sci-kit learn, sklearn.model_selection**
 | **[Uncovering Engagement Patterns at a Nonprofit 💡](https://github.com/ashleyh859/internship_project/blob/main/README.md)** | Data Analytics project on ***identifying potential patterns of student engagement levels*** within the Program, with the intention of providing valuable insights to *enhance program services*. The main focus was to explore **correlations** between **student engagement and various factors**, including colleges, grade levels, and more.| Data Cleaning and Querying with **Microsoft SQL**, Data Analysis with **Excel**, Data visualization dashboards with **Excel** and **Tableau**|
