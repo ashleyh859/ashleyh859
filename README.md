@@ -13,8 +13,7 @@ Hi! I'm Ashley! I am a *rising junior at Cornell University* studying **Informat
 
 | Project Name  | Quick Summary| Skills Learned & Used|
 |----|----|---|
-|**[AIRY: A Mental Health React Native App 🧠](https://github.com/yzhao2433/seeds-airy/blob/main/README.md)**
-| Developed a full stack React Native mental health app for college students, focusing on UX design principles such as anonymous journaling, daily mood tracking, and motivational messaging, and incorporating user interviews, ideation, wireframing, and iterative design | **React Native Typescript, Firebase, Figma, User Research, Usability Testing, Design Iterations** |
+|**[AIRY: A Mental Health React Native App 🧠](https://github.com/yzhao2433/seeds-airy/blob/main/README.md)**| Developed a full stack React Native mental health app for college students, focusing on UX design principles such as anonymous journaling, daily mood tracking, and motivational messaging, and incorporating user interviews, ideation, wireframing, and iterative design | **React Native Typescript, Firebase, Figma, User Research, Usability Testing, Design Iterations** |
 | **[Fashion E-commerce App 🧥](https://ashleyhuang.me/fashionux.html)** | Crafted a high-fidelity prototype, merging user-centric principles and industry aesthetics|**Figma, User Research, Visual Design, Low Fidelity + High Fidelity Interactive Prototyping**|
 | **[Cornell Eastern Music Ensemble Website Redesign 🎶 ](https://ashleyhuang.me/cemeux.html)** |Designed a visually appealing responsive and accessible website with user-centered design principles website for our client, **Cornell Eastern Music Ensemble** with a focus on User Testing|**Figma, HTML, CSS, and JavaScript**|
 
