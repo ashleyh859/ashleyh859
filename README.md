@@ -1,31 +1,31 @@
 # 👋 About Me 
 
-Hi! I'm Ashley! I am a *rising junior at Cornell University* studying **Information Science with a Concentration in Data Science and Interactive Technologies**. Ever since my data analytics internship last summer and my classes, I have been deeply fascinated by *data science, frontend development, and product design*, so I hope to explore and develop more of these skills in those fields. 😄
+Hi! I'm Ashley! I am a *rising junior at Cornell University* studying **Information Science with a Concentration in Interactive Technologies and UX Design**. I'm interested in *frontend development, and product design*, so I hope to explore and develop more of these skills in those fields. 😄
 
 
 ##  🛠️ Tools
 - **Programming Languages**: Python, HTML, CSS, JavaScript, SQL, Java, R
 - **Tools**: Microsoft SQL, Excel, Tableau, Figma
+- **Frameworks**: React Native Typescript, React, Node.js with Firebase
 - **Data Science & Machine Learning Libraries**: scikit-learn, numpy, pandas, matplotlib, seaborn, duckdb, statsmodel, SciPy
-
-## 🚀 Data Science/Analytics Project
-
-| Project Name  | Quick Summary| Skills Learned & Used|
-|----|----|---|
-| **[Income Disparities Among Individuals with Work Disabilities](https://github.com/ashleyh859/incomedisparitiesproject/blob/main/README.md)** | Data Science project on ***employment rates and income disparities among individuals with work disabilties***.| Data Analysis and Visualizations with **R**
-| **[Sephora Product Price Prediction Model 💄](https://github.com/ashleyh859/sephoraproductpricepredictionmodel/blob/main/README.md)** | Data Science project on ***predictive modeling function between key product variables (Ratings, Brand Name, and Category) and price of the product***.| Feature Engineering/Selection with Dummy Variables, Hypothesis Testing with Permutations, Train/test set, Residuals, Multicollinearity, Hyperparameter Tuning with GridSearchCV, Multi-Linear Regression Model, K-Fold Cross Validation, RMSE, and Predictive Modeling Function with **Pandas, matplotlib, seaborn, sci-kit learn, SciPy, Statsmodels**
-| **[Amazon User Experience 🚀](https://github.com/ashleyh859/amazonuserexperience/blob/main/README.md)** | Data Science project on ***correlation between Amazon user experience and consumer willingness of purchasing products in different age groups***.| Train/test set, Feature Selection, Multicollinearity, OLS Multi-Linear Regression Model training, K-Fold Cross Validation, RMSE, Hypothesis Testing with **Pandas, SQL, matplotlib, seaborn, sci-kit learn, sklearn.model_selection**
-| **[Uncovering Engagement Patterns at a Nonprofit 💡](https://github.com/ashleyh859/internship_project/blob/main/README.md)** | Data Analytics project on ***identifying potential patterns of student engagement levels*** within the Program, with the intention of providing valuable insights to *enhance program services*. The main focus was to explore **correlations** between **student engagement and various factors**, including colleges, grade levels, and more.| Data Cleaning and Querying with **Microsoft SQL**, Data Analysis with **Excel**, Data visualization dashboards with **Excel** and **Tableau**|
 
 ## 💻  Frontend Development/Product Design UI/UX Projects
 
 | Project Name  | Quick Summary| Skills Learned & Used|
 |----|----|---|
-| **[Portfolio Website Case Study 🚀](https://github.com/ashleyh859/portfoliowebsitecasestudy/blob/main/README.md)** | Interaction redesign case study on my client's professional website |**Figma, User Testing, User Research, Visual Design, Low Fidelity + High Fidelity Interactive Prototyping**|
-| **[Fashion E-commerce App 🧥](https://github.com/ashleyh859/fashioneccomerceapp/blob/main/README.md)** | Crafted a high-fidelity prototype, merging user-centric principles and industry aesthetics through competitor analysis. |**Figma, User Testing, User Research, Visual Design, Low Fidelity + High Fidelity Interactive Prototyping**|
-| **[Cornell Eastern Music Ensemble Website Redesign 🎶 ](https://github.com/ashleyh859/cemeredesign/blob/main/README.md)** |Redesigned a visually appealing contemporary website prototype for **Cornell Eastern Music Ensemble**.|**Figma**|
-| **[Cornell Eastern Music Ensemble 🎼](https://github.com/ashleyh859/cemewebsite/blob/main/README.md)** | Designed a responsive and accessible website with user-centered design principles website for our client, **Cornell Eastern Music Ensemble**.|**HTML, CSS, and JavaScript**|
-| **[Ithaca Apple Fest 🍎](https://github.com/ashleyh859/applefest/blob/main/README.md)** | Redesigned a responsive and accessible website with user-centered design principles website for the client, **Ithaca Apple Fest**.|**HTML, CSS, and JavaScript**|
+|**[AIRY: A Mental Health React Native App 🧠](https://github.com/yzhao2433/seeds-airy/blob/main/README.md)**
+| Developed a full stack React Native mental health app for college students, focusing on UX design principles such as anonymous journaling, daily mood tracking, and motivational messaging, and incorporating user interviews, ideation, wireframing, and iterative design | **React Native Typescript, Firebase, Figma, User Research, Usability Testing, Design Iterations** |
+| **[Fashion E-commerce App 🧥](https://ashleyhuang.me/fashionux.html)** | Crafted a high-fidelity prototype, merging user-centric principles and industry aesthetics|**Figma, User Research, Visual Design, Low Fidelity + High Fidelity Interactive Prototyping**|
+| **[Cornell Eastern Music Ensemble Website Redesign 🎶 ](https://ashleyhuang.me/cemeux.html)** |Designed a visually appealing responsive and accessible website with user-centered design principles website for our client, **Cornell Eastern Music Ensemble** with a focus on User Testing|**Figma, HTML, CSS, and JavaScript**|
+
+## 🚀 Data Science/Analytics Project
+
+| Project Name  | Quick Summary| Skills Learned & Used|
+|----|----|---|
+| **[Sephora Product Price Prediction Model 💄](https://github.com/ashleyh859/sephoraproductpricepredictionmodel/blob/main/README.md)** | Data Science project on ***predictive modeling function between key product variables (Ratings, Brand Name, and Category) and price of the product***.| Feature Engineering/Selection with Dummy Variables, Hypothesis Testing with Permutations, Train/test set, Residuals, Multicollinearity, Hyperparameter Tuning with GridSearchCV, Multi-Linear Regression Model, K-Fold Cross Validation, RMSE, and Predictive Modeling Function with **Pandas, matplotlib, seaborn, sci-kit learn, SciPy, Statsmodels**
+| **[Amazon User Experience 🚀](https://github.com/ashleyh859/amazonuserexperience/blob/main/README.md)** | Data Science project on ***correlation between Amazon user experience and consumer willingness of purchasing products in different age groups***.| Train/test set, Feature Selection, Multicollinearity, OLS Multi-Linear Regression Model training, K-Fold Cross Validation, RMSE, Hypothesis Testing with **Pandas, SQL, matplotlib, seaborn, sci-kit learn, sklearn.model_selection**
+| **[Income Disparities Among Individuals with Work Disabilities](https://github.com/ashleyh859/incomedisparitiesproject/blob/main/README.md)** | Data Science project on ***employment rates and income disparities among individuals with work disabilties***.| Data Analysis and Visualizations with **R**
+| **[Uncovering Engagement Patterns at a Nonprofit 💡](https://github.com/ashleyh859/internship_project/blob/main/README.md)** | Data Analytics project on ***identifying potential patterns of student engagement levels*** within the Program, with the intention of providing valuable insights to *enhance program services*. The main focus was to explore **correlations** between **student engagement and various factors**, including colleges, grade levels, and more.| Data Cleaning and Querying with **Microsoft SQL**, Data Analysis with **Excel**, Data visualization dashboards with **Excel** and **Tableau**|
 
 ## 🎶 Hobbies & Interests
 - **🎵 Music**: I'm a multi-instrumentalist and love playing the guzheng and violin since young!
