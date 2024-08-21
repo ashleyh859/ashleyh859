@@ -1,10 +1,10 @@
 # 👋 About Me 
 
-Hi! I'm Ashley! I am a *rising junior at Cornell University* studying **Information Science with a Concentration in Interactive Technologies and UX Design**. I'm interested in *frontend development, and product design*, so I hope to explore and develop more of these skills in those fields. 😄
+Hi! I'm Ashley! I am a *junior at Cornell University* studying **Information Science with Concentrations in Interactive Technologies and UX Design**. I'm interested in *frontend development, and product design*, so I hope to explore and develop more of these skills in those fields. 😄
 
 
 ##  🛠️ Tools
-- **Programming Languages**: Python, HTML, CSS, JavaScript, SQL, Java, R
+- **Programming Languages**: Python, HTML, CSS, JavaScript, SQL, Java, R, Typescript
 - **Tools**: Microsoft SQL, Excel, Tableau, Figma
 - **Frameworks**: React Native Typescript, React, Node.js with Firebase
 - **Data Science & Machine Learning Libraries**: scikit-learn, numpy, pandas, matplotlib, seaborn, duckdb, statsmodel, SciPy
