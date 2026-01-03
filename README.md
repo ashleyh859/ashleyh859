@@ -1,6 +1,6 @@
 # 👋 About Me 
 
-Hi! I'm Ashley! I am a *rising senior at Cornell University* studying **Information Science with Concentrations in UX Design and Behaviorial Science**. I'm interested in *frontend development and product design*, so I hope to explore and develop more of these skills in those fields. 😄
+Hi! I'm Ashley! I am a *senior at Cornell University* studying **Information Science with Concentrations in UX Design and Behaviorial Science**. I'm interested in *frontend development and product design*, so I hope to explore and develop more of these skills in those fields. 😄
 
 
 ##  🛠️ Tools
@@ -13,6 +13,7 @@ Hi! I'm Ashley! I am a *rising senior at Cornell University* studying **Informat
 
 | Project Name  | Quick Summary| Skills Learned & Used|
 |----|----|---|
+|**[Campus Events Catalog 📅](https://github.com/ashleyh859/campusevents)**| Designed and developed a full-stack dual-interface web application to help new Cornell students discover campus events and enable student organization leaders to manage event postings, featuring mobile-optimized browsing and a secure administrative portal. | **HTML, CSS, PHP, SQL, User-Centered Design, Persona, Session Management, Security (SQL Injection & XSS Protection), Accessibility (WAVE-compliant)** |
 |**[Routes to Roots: Preserving Cultural Identity Kiosk 🏠](https://ashleyhuang.me/routestoroots.html)**| Designed an innovative kiosk system using cultural probes and autoethnography research to help students reconnect with their cultural heritage through community connections and visible campus touchpoints.| **Cultural Probes, Autoethnography, Diary Studies, Figma, Affinity Mapping, Physical-Digital Design, Qualitative Research Methods** |
 |**[Eco-Cart: A Sustainable Shopping App 🌱](https://ashleyhuang.me/ecocart.html)**| Designed a mobile app and cart device prototype to empower users to make eco-friendly shopping choices, with features like real-time sustainable product suggestions, in-store navigation, and rewards for greener purchases. | **Figma, User Research, Wireframing, Usability Testing, Sustainability Metrics, Design Iterations** |
 |**[AIRY: A Mental Health React Native App 🧠](https://github.com/yzhao2433/seeds-airy/blob/main/README.md)**| Developed a full stack React Native mental health app for college students, focusing on UX design principles such as anonymous journaling, daily mood tracking, and motivational messaging, and incorporating user interviews, ideation, wireframing, and iterative design | **React Native Typescript, Firebase, Figma, User Research, Usability Testing, Design Iterations** |
